@@ -30,10 +30,10 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
+The following picture depicts the application:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+![Image of calendar.](./Assets/images/Screenshot%202022-08-12%20134032.jpg)
 
 Modifications:
--Created div elements that house time slot, save button, and text area
--Created JS to appropriately connect momen 
+Created div elements that house time slot, save button, and text area
+Created JS to appropriately connect moment and have save functionality that utilizes local storage
